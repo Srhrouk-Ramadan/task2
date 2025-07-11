@@ -1,0 +1,35 @@
+.class_1{
+    color:rgb(233, 15, 15);
+}
+#navid{
+    color: rgb(233, 15, 15);
+    
+}
+.class_3{
+    color: rgb(35, 160, 195);
+}
+
+
+#navid a {
+    color: rgb(239, 20, 20); 
+    text-decoration: none; 
+    padding: 10px 20px; 
+
+    border-radius: 5px;
+    
+}
+
+#navid a:hover {
+    color: #000000; 
+}
+p{
+    color: rgb(10, 10, 48);
+}
+.class_2:hover{
+    color: rgb(220, 12, 12);
+    
+}
+::selection{
+    color: aliceblue;
+    background-color: black;
+}
